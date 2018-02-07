@@ -1,0 +1,32 @@
+/* CSS Document */
+.search-background {
+display: none;
+font-size: 13px;
+font-weight: bold;
+top:0px;
+z-index:20;
+left:0px;
+height:100%;
+position: fixed;
+text-align: center;
+opacity:0.5;filter: alpha(opacity=50) ;
+text-decoration: none;
+width: 100%;
+ 
+}
+.search-background {
+background-color: #3a3427;
+color:#FFFFFF;
+text-shadow: #fff 0px 0px 20px;
+}
+ 
+.search-background label{
+position:fixed;
+top:45%;
+left:45%;
+ }
+.memessage
+{
+resize:none;	
+}
+
